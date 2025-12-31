@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイサイト・ラブ",
+  "base_artist": "d.j.ァネイロ",
+  "createdAt": "2025-12-31T11:43:55.811296Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイサイト・ラブ",
+      "artist": "d.j.ァネイロ",
+      "has_synced": false,
+      "path": "select/pl_01_アイサイト・ラブ_d.j.ァネイロ.txt"
+    }
+  ]
+}
